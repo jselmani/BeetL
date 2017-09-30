@@ -1,4 +1,4 @@
-## Robotics & Data Communications
+## BeetL
 
 **Team Members:** [Jiel Selmani](https://www.linkedin.com/in/jielselmani/), [Eric Schvartzman](https://www.linkedin.com/in/eric-schvartzman-1a93a789/), [Rosario Cali](https://www.linkedin.com/in/rosario-alessandro-cal%C3%AC-b8480a128/)
 
